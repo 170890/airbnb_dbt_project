@@ -2,7 +2,7 @@
 This project was create to demonstrate my skills with SQL, dbt and data analysis.
 
 ## Architecture
-![architecture](https://github.com/170890/airbnb_dbt_project/blob/9810e45c47106e4c90a369a6d11ce77d091d20ee/assets/architecture.png)
+![architecture](assets/architecture.png)
 
 ## Local Setup
 Execute the script below, it will create a virtualenv and install the necessary dependencies.<br>
