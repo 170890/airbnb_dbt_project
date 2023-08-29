@@ -26,4 +26,4 @@ test:
 
 freshness:
 		cd dbtlearn && \
-		dbt freshness
+		dbt source freshness
