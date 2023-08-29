@@ -44,4 +44,4 @@ After install python and virtual envinronment, follow the steps:<br>
 `make test`
 
 * 6. To apply the freshness polices<br>
-`freshness`
+`make freshness`
