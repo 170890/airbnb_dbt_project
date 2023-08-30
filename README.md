@@ -65,7 +65,7 @@ GRANT ALL ON FUTURE TABLES IN SCHEMA AIRBNB.RAW to ROLE transform;
 
 ```
 
-## Snowflake data import
+### Snowflake data import
 
 Copy these SQL statements into a Snowflake Worksheet, select all and execute them (i.e. pressing the play button).
 
@@ -128,6 +128,7 @@ COPY INTO raw_hosts (id, name, is_superhost, created_at, updated_at)
 
 ```
 
+### Setup Environment
 After install python and virtual envinronment, follow the steps:<br>
 
 * 1. Create and activate virtual env<br>
